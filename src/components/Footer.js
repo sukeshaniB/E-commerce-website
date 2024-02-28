@@ -88,11 +88,9 @@ import {
     return (
       <Container>
         <Left>
-          <Logo>LAMA.</Logo>
+          <Logo>Info.</Logo>
           <Desc>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don’t look even slightly believable.
+          10% off on EVERYTHING only for today! Link in bio to shop. Hurry before the sale ends..
           </Desc>
           <SocialContainer>
             <SocialIcon color="3B5999">
@@ -127,13 +125,13 @@ import {
         <Right>
           <Title>Contact</Title>
           <ContactItem>
-            <Room style={{marginRight:"10px"}}/> 622 Dixie Path , South Tobinchester 98336
+            <Room style={{marginRight:"10px"}}/> At post washim 444404 , Maharastra.
           </ContactItem>
           <ContactItem>
-            <Phone style={{marginRight:"10px"}}/> +1 234 56 78
+            <Phone style={{marginRight:"10px"}}/> +91 66784903224
           </ContactItem>
           <ContactItem>
-            <MailOutline style={{marginRight:"10px"}} /> contact@lama.dev
+            <MailOutline style={{marginRight:"10px"}} /> contact@sukeshni
           </ContactItem>
           <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
         </Right>
